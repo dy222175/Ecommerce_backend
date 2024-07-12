@@ -1,28 +1,45 @@
-﻿# MERN E-COMMERCE SERVER 2024
+ MERN E-Commerce Server project:
 
-Hi! My name is **Deepak Yadav**, I have created this MERN Stack.
+```markdown
+# MERN E-Commerce Server 2024
 
-# Prerequisite
+Hi! My name is **Deepak Yadav**, and I have created this MERN Stack E-Commerce application.
 
-1.  Must have basic knowledge of **Node**, **React**, **Express**, **MongoDB** .
+## Prerequisite
 
-# Install Dependencies
+To get started, ensure you have basic knowledge of **Node.js**, **React**, **Express**, and **MongoDB**.
 
-**For Backend** - `npm i && npm run build`
+## Install Dependencies
 
-## Env Variables
+### For Backend
 
-Make Sure to Create a .env file in root directory and add appropriate variables in order to use the app.
+Run the following commands to install the necessary dependencies and build the project:
+```sh
+npm install && npm run build
+```
 
-**Essential Variables**
-PORT= `4000 or any`
-MONGO_URI= `mongodb://localhost:27017 or cloud uri`
-STRIPE_KEY=`stripe secret key`
-PRODUCT_PER_PAGE=`8 or any`
+## Environment Variables
 
-_fill each filed with your info respectively_
+Make sure to create a `.env` file in the root directory and add the appropriate variables to use the app.
+
+### Essential Variables
+```
+PORT=4000               # or any preferred port
+MONGO_URI=mongodb://localhost:27017  # or your cloud URI
+STRIPE_KEY=your_stripe_secret_key
+PRODUCT_PER_PAGE=8      # or any number of products per page
+```
+_Fill each field with your respective information._
 
 ## Author
 
-**Instagram** Click [Here](https://www.instagram.com/deepakydv_62/) **@deepakydv_62**
-**LinkedIn** Click [Here](https://www.linkedin.com/in/deepak-yadav-1b8b49224/) **deepak-yadav-1b8b49224**
+Connect with me on social media:
+
+- **Instagram**: [@deepakydv_62](https://www.instagram.com/deepakydv_62/)
+- **LinkedIn**: [Deepak Yadav](https://www.linkedin.com/in/deepak-yadav-1b8b49224/)
+```
+
+This version includes:
+- Clear instructions for installing dependencies and setting up environment variables.
+- Social media links for easy access.
+- Improved formatting for better readability.
