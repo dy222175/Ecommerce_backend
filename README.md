@@ -1,27 +1,27 @@
-Got it! Here is your `README.md` file with the command inside a code block:
+# MERN E-Commerce Project: Backend
 
 ```markdown
-# MERN E-Commerce Server 2024
+# MERN E-Commerce Backend
 
 Hi! My name is **Deepak Yadav**, and I have created this MERN Stack E-Commerce application.
 
-## Prerequisites
-
-Before you begin, ensure you have basic knowledge of the following technologies:
-- **Node.js**
-- **React**
-- **Express**
-- **MongoDB**
-
+ 
 ## Install Dependencies
 
-### For Backend
+ 
+## Install Dependencies
 
-To install the necessary dependencies and build the project, run the following commands:
+First, navigate to the Frontend directory and then install the necessary dependencies and start the development server:
 
 ```sh
-npm install && npm run build
-```
+# Go to Backend directory
+cd Ecommerce_backend
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
 
 ## Environment Variables
 
@@ -42,7 +42,7 @@ Connect with me on social media:
 
 - **Instagram**: [@deepakydv_62](https://www.instagram.com/deepakydv_62/)
 - **LinkedIn**: [Deepak Yadav](https://www.linkedin.com/in/deepak-yadav-1b8b49224/)
-```
+  
 
  
  
